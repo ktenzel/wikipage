@@ -1,0 +1,45 @@
+.main-head {
+  float: right;
+  padding: 2px;
+  font-family: sans-serif;
+  white-space: nowrap;
+  padding-top: 2px;
+}
+
+#userstat{
+  color: gray;
+  background-image: url(../img/user.png);
+  background-position: left top;
+  background-repeat: no-repeat;
+  padding-left: 15px;u
+}
+
+body{
+  margin: 1%;
+}
+
+a {
+  text-decoration: none;
+  color: #0645ad;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mainlogo {
+  padding-bottom: 20px;
+}
+
+.head-li {
+  padding-left: 3px;
+  padding-right: 2px;
+  display: inline;
+}
+
+.side1 {
+  display: block;
+  padding: 3px;
+}
